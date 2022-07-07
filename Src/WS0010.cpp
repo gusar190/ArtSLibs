@@ -1,6 +1,5 @@
 #include "WS0010.hpp"
 
-//delete this comment:)
 
 //#define NO_BUSY_FLAG_CHECK
 
