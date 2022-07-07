@@ -51,7 +51,7 @@
 */
 #include "DisplayBase.hpp"
 #include "AuxFunctions.hpp"
-
+//delete this comment:)
 class WS0010 : public DisplayBase {
     private:
     /*Private Vars*/
